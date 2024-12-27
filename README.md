@@ -1,6 +1,6 @@
 - Olá, sou Heloisa
 - Estou interessada em me desenvolver na área DevOps
-- Atualmente, estou aprendendo sobre GIT
+- Atualmente, estou aprendendo sobre Docker
 - Para entrar em contato comigo: www.linkedin.com/in/heloisa-pereira-b61794225
 - Curiosidades: Gamer, animes, livros, mistérios, Jesus.  
 
