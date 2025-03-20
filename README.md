@@ -22,8 +22,11 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-![Snake animation](https://raw.githubusercontent.com/heloohp/heloohp/output/github-contribution-grid-snake.svg?palette=purple)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heloohp/heloohp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heloohp/heloohp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heloohp/heloohp/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 heloohp/heloohp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
