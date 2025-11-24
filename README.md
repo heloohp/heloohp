@@ -9,8 +9,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=8000FF&color:FFF)](https://github.com/heloohp)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heloohp&theme=transparent&bg_color=000&border_color=6A1B9A&show_icons=true&icon_color=6A1B9A&title_color=6A1B9A&text_color=FFF" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=heloohp&theme=transparent&bg_color=000&border_color=6A1B9A&show_icons=true&icon_color=6A1B9A&title_color=6A1B9A&text_color=FFF"/>
+</p
 
 ## Habilidades que estou desenvolvendo
 
