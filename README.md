@@ -1,6 +1,6 @@
-<h1 align="center">Olá, Eu sou Heloisa! 💜</h1>
+<h1 align="center"> Bem Vindo ao meu Hello-World 🌷</h1>
 
-<p align=> Estudante de Engenharia de Software e Estagiaria DevOps da @Globo. Sempre tive facilidade e curiosidade com computador quando criança, o que despertou minha vontade em ingressar na tecnologia. Sou iniciante com muita vontade de aprender. Alguns dos meus hobbies são jogos, animes e streamers.
+<p align=> Olá! Me chamo Heloisa, sou estudante de Engenharia de Software e este perfil é dedicado à minha jornada na tecnologia. Aqui compartilho meus estudos, projetos e tudo que venho aprendendo pelo caminho. Adoro explorar coisas novas, testar ideias e me desafiar sempre. Você vai ver meus primeiros passos por aqui — tentativas, descobertas e muita vontade de evoluir!
 
 ## Conecte-se comigo
 
