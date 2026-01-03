@@ -6,7 +6,7 @@
 
 ###
 
-<p align=> Olá! Me chamo Heloisa Pereira, sou estudante de Engenharia de Software e este perfil é dedicado à minha jornada na tecnologia. Aqui compartilho meus estudos, projetos e tudo que venho aprendendo pelo caminho. Adoro explorar coisas novas, testar ideias e me desafiar sempre. Você vai ver meus primeiros passos por aqui — tentativas, descobertas e muita vontade de evoluir!
+<p align=> Olá! Me chamo Heloisa Pereira, sou estudante de Engenharia de Software e este perfil é dedicado à minha jornada na tecnologia. Aqui compartilho meus estudos, projetos e tudo que venho aprendendo pelo caminho. Adoro explorar coisas novas, testar ideias e me desafiar sempre. Você vai ver meus primeiros passos por aqui, tentativas, descobertas e muita vontade de evoluir!
 
 ## Conecte-se comigo
 
